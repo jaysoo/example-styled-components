@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`bold 1`] = `
+.c0 {
+  font-weight: bold;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: Helvetica, sans-serif;
+}
+
+.c0 .sc-bdVaJa {
+  margin: 3px;
+}
+
+<div
+  className="c0"
+>
+  Hello
+</div>
+`;
+
+exports[`normal 1`] = `
+.c0 {
+  font-weight: normal;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  font-family: Helvetica, sans-serif;
+}
+
+.c0 .sc-bdVaJa {
+  margin: 3px;
+}
+
+<div
+  className="c0"
+>
+  Hello
+</div>
+`;

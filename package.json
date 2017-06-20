@@ -1,0 +1,21 @@
+{
+  "name": "example-styled-components",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "jest-styled-components": "https://github.com/styled-components/jest-styled-components.git#8f397d4cff186cfb554aabcd14616c952a54a1b8",
+    "react-scripts": "1.0.7",
+    "react-test-renderer": "^15.6.1"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "styled-components": "^2.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
